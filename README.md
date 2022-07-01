@@ -10,6 +10,8 @@ It's been a while since I wrot code in python.
 So I'm sure it could be done easyer or better.
 
 
+
+
 These are my results.
 
 The lucky prisoner found his number within 50 tries!
@@ -25,6 +27,7 @@ All Dead
 
 
 
+
 Number of runs 1000
 
 Average number of lucky prisoners 37.304
@@ -36,6 +39,7 @@ All Dead
 
 
 
+
 Number of runs 100000
 
 Average number of lucky prisoners 37.50073
@@ -43,6 +47,7 @@ Average number of lucky prisoners 37.50073
 Highest number of lucky prisoners 69
 
 again. All dead
+
 
 
 
