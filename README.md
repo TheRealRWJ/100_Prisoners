@@ -1,61 +1,37 @@
-Veritasium published a video about the 100 prisoners riddle.
-I could not stop thinking about it, so I gave it few tries and wrote a python script.
-My conclusion: All prisoners are going to die every time!
+Veritasium published a video about the 100 prisoners riddle.<br>
+I could not stop thinking about it, so I gave it few tries and wrote a python script.<br>
+My conclusion: All prisoners are going to die every time!<br>
 
-This is the link to the video.
-https://www.youtube.com/watch?v=iSNsgj1OCLA
-
-
-It's been a while since I wrot code in python. 
-So I'm sure it could be done easyer or better.
+This is the link to the video.<br>
+https://www.youtube.com/watch?v=iSNsgj1OCLA<br>
 
 
-
-
-These are my results.
-
-The lucky prisoner found his number within 50 tries!
-
-Number of runs 100
-
-Average number of lucky prisoners 37.73
-
-Highest number of lucky prisoners 55
-
-All Dead
+It's been a while since I wrote code in python. <br>
+So I'm sure it could be done easier or better.<br>
 
 
 
+<br>
+These are my results.<br>
+<br>
+The lucky prisoner found his number within 50 tries!<br><br>
+Number of runs 100<br>
+Average number of lucky prisoners 37.73<br>
+Highest number of lucky prisoners 55<br>
+All Dead<br>
+<br><br>
 
-
-Number of runs 1000
-
-Average number of lucky prisoners 37.304
-
-Highest number of lucky prisoners 60
-
-All Dead
-
-
-
-
-
-Number of runs 100000
-
-Average number of lucky prisoners 37.50073
-
-Highest number of lucky prisoners 69
-
-again. All dead
-
-
-
-
-Number of runs 1000000
-
-Average number of lucky prisoners 37.496279
-
-Highest number of lucky prisoners 68
-
-again. All prisoners get executed
-
+Number of runs 1000<br>
+Average number of lucky prisoners 37.304<br>
+Highest number of lucky prisoners 60<br>
+All Dead<br>
+<br><br>
+Number of runs 100000<br>
+Average number of lucky prisoners 37.50073<br>
+Highest number of lucky prisoners 69<br>
+again. All dead<br>
+<br><br>
+Number of runs 1000000<br>
+Average number of lucky prisoners 37.496279<br>
+Highest number of lucky prisoners 68<br>
+again. All prisoners get executed<br><br>
