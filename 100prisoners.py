@@ -26,7 +26,7 @@ def Average(lst):
 
 # Lets get som percentages
 
-MaxRuns = 1000000
+MaxRuns = 1000
 AllLuckyPrisoners = []
 
 for run in range(MaxRuns):
